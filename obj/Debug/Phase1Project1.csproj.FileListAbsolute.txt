@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\phase 1 simplilearn\phas1 project1\Phase1Project1\Phase1Project1\bin\Debug\Phase1Project1.exe.config
+C:\Users\LENOVO\Documents\phase 1 simplilearn\phas1 project1\Phase1Project1\Phase1Project1\bin\Debug\Phase1Project1.exe
+C:\Users\LENOVO\Documents\phase 1 simplilearn\phas1 project1\Phase1Project1\Phase1Project1\bin\Debug\Phase1Project1.pdb
+C:\Users\LENOVO\Documents\phase 1 simplilearn\phas1 project1\Phase1Project1\Phase1Project1\obj\Debug\Phase1Project1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\phase 1 simplilearn\phas1 project1\Phase1Project1\Phase1Project1\obj\Debug\Phase1Project1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\phase 1 simplilearn\phas1 project1\Phase1Project1\Phase1Project1\obj\Debug\Phase1Project1.exe
+C:\Users\LENOVO\Documents\phase 1 simplilearn\phas1 project1\Phase1Project1\Phase1Project1\obj\Debug\Phase1Project1.pdb
